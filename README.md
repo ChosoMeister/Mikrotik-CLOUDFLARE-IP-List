@@ -19,3 +19,4 @@ This repository automatically updates every 2 hours to fetch the latest Cloudfla
 ## Author
 
 [Mustafa](https://github.com/ChosoMeister)
+
